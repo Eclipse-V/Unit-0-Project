@@ -1,1 +1,1 @@
-The files named main.java are the seperate parts we worked on that just have our initals. While the one labeled partner.java is the one where both of out works are combined to create an image that has both of our initals. 
+The files named main.java are the seperate parts we worked on that just have our initals. While the one labeled partner.java is the one where both of our works are combined to create an image that has both of our initals. 
